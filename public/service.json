@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Elegant Wedding Celebration",
+    "venue": "The Grand Ballroom",
+    "img": "https://i.ibb.co/qkFmRkP/hindu-indian-american-multicultural-wedding.jpg",
+    "price": 5000.00,
+    "description": "Celebrate the union of love with our Elegant Wedding Celebration. Picture a grand ceremony filled with romance and opulence. Guests will be enchanted by the stunning decor and the ambiance of love that fills the air. Exchange vows in a breathtaking setting, followed by a sumptuous reception that will leave everyone in awe. From exquisite floral arrangements to the finest cuisine, every detail is meticulously crafted to make your day truly unforgettable. Join us for a day of pure magic and joy as you embark on your journey of love together. Let us make your wedding dreams come true with our Elegant Wedding Celebration."
+  },
+  {
+    "id": 2,
+    "title": "Beach Wedding Adventure",
+    "venue": "Sunset Beach Resort",
+    "img": "https://i.ibb.co/KshVzxG/18-2.jpg",
+    "price": 3500.00,
+    "description": "Experience the ultimate Beach Wedding Adventure. Imagine saying 'I do' with the sun setting on the horizon and the sound of waves as your backdrop. It's a romantic escape that promises lifelong memories. Walk down the sandy aisle hand in hand, as your closest friends and family witness your love story unfolding. After the ceremony, enjoy a beachside reception filled with delectable seafood and tropical cocktails. The Beach Wedding Adventure is not just a celebration; it's a journey into forever. Create lasting moments of love and connection in this idyllic coastal setting. Your beachfront wedding awaits, where love and nature unite."
+  },
+  {
+    "id": 3,
+    "title": "Surprise 30th Birthday Bash",
+    "venue": "The Starlight Ballroom",
+    "img": "https://i.ibb.co/2dg6Ff5/91-Amg-Umxl-AL-AC-SL1500.jpg",
+    "price": 2500.00,
+    "description": "Get ready for the Surprise 30th Birthday Bash of a lifetime! Turning 30 is a milestone worth celebrating, and we're here to make it unforgettable. Picture a room filled with friends, laughter, and surprises as you walk in. You'll be surrounded by the people who matter most, all gathered to honor your journey. From the decorations to the entertainment, every detail is designed to capture your unique personality. Dance the night away, savor delicious food, and cherish the love that fills the room. The Surprise 30th Birthday Bash is not just a party; it's a tribute to your life's adventures and the exciting journey ahead."
+  },
+  {
+    "id": 4,
+    "title": "Kids' Magical Birthday Party",
+    "venue": "Enchanted Garden Party Place",
+    "img": "https://i.ibb.co/HxGhcLJ/0-K0-A9596-Edit-scaled.jpg",
+    "price": 1500.00,
+    "description": "Experience a Kids' Magical Birthday Party like never before! It's a day of enchantment and wonder, where your child's dreams come true. Imagine a world of magic shows, colorful balloons, and joyful laughter. Our party is designed to spark the imagination of young minds and create unforgettable memories. The entertainment will keep the little ones mesmerized, and the delicious treats will delight their taste buds. Whether it's a princess-themed extravaganza or an adventure with pirates, we customize the experience to your child's desires. Let's make your child's special day truly magical with our Kids' Magical Birthday Party."
+  },
+  {
+    "id": 5,
+    "title": "Silver Anniversary Gala",
+    "venue": "Crystal Palace Ballroom",
+    "img": "https://i.ibb.co/t2PJJ9T/images.jpg",
+    "price": 3500.00,
+    "description": "Celebrate 25 years of love and commitment with our Silver Anniversary Gala. It's a milestone that deserves a grand celebration. Picture an elegant evening filled with glamour and nostalgia, surrounded by loved ones who have shared your journey. From the sparkling decorations to the exquisite cuisine, every detail is a testament to your enduring love story. Dance the night away to your favorite tunes, reminiscing about the beautiful moments you've created together. The Silver Anniversary Gala is not just a party; it's a tribute to the love, strength, and lasting memories you've built over the years."
+  },
+  {
+    "id": 6,
+    "title": "Engagement Garden Party",
+    "venue": "Serenity Gardens",
+    "img": "https://i.ibb.co/yB21KV0/chair-rentals-rc-events-social-graph-e1566596339888.jpg",
+    "price": 5000.00,
+    "description": "Join us for an Engagement Garden Party in a picturesque setting that perfectly matches the love you share. Imagine an enchanting garden, abloom with flowers and the soft melody of nature as your backdrop. It's the ideal setting to celebrate your commitment to each other. Share your joy with family and friends amidst the beauty of nature. Enjoy a delightful garden feast, toast with champagne, and dance under the stars. The Engagement Garden Party is not just an event; it's a celebration of your love story's beginning, set in the serenity of nature's embrace."
+  }
+]
